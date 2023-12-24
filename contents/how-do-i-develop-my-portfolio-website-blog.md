@@ -21,7 +21,7 @@ excerpt:
   experiences.
 slug: how-do-i-develop-my-portfolio-and-blog
 featured: true
-category: How Do I
+category: Portfolio
 language: English
 ---
 

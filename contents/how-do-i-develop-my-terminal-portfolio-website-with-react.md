@@ -17,7 +17,7 @@ description: Sat Naing's React terminal portfolio website. Styled-components is 
 excerpt: Developing a terminal-like website using ReactJS, TypeScript and Styled-Components. Includes features like autocomplete, multiple themes, command hints etc.
 slug: how-do-i-develop-my-terminal-portfolio-website-with-react
 featured: true
-category: How Do I
+category: Portfolio
 categories: Blog
 ---
 
