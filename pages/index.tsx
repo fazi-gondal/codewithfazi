@@ -27,7 +27,7 @@ export const meta = {
   ogImage: `${process.env.NEXT_PUBLIC_URL}/codewith-fazi-og-new.png`,
   siteName: "Code With Fazi",
   imageAlt: "Faizan Gondal portfolio website",
-  <meta name="google-site-verification" content="ArLghxvGvDVvPSsajExAZUfrbgig9hpWdyOhJaDDQe8" />,
+  meta name="google-site-verification" content="ArLghxvGvDVvPSsajExAZUfrbgig9hpWdyOhJaDDQe8",
 };
 
 const Home: NextPage<Props> = ({ blogPosts }) => {
